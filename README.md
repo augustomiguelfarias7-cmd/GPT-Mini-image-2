@@ -1,4 +1,4 @@
-GPT-Mini Image 2: O Futuro da Geração de Imagens em Alta Resolução
+=GPT-Mini Image 2: O Futuro da Geração de Imagens em Alta Resolução
 
 O GPT-Mini Image 2 é a evolução do nosso projeto de modelos de geração de imagens. Inspirado nas tecnologias de ponta de difusão e transformers avançados, este modelo nasceu para gerar imagens em resolução ultra-alta 12K, oferecendo realismo impressionante e qualidade profissional.
 
